@@ -1,1 +1,1 @@
-# hackillinois17
+# HackIllinois '17
